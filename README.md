@@ -128,6 +128,7 @@ gemの `letter_opener_web` を利用しているため送信したメールは `
 パスワード：password
 ```
 
+
 2
 ```
 ユーザ名：tanaka
